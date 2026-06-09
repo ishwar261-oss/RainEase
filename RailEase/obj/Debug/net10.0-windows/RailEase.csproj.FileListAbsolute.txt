@@ -1,0 +1,17 @@
+C:\Users\Ishwar\source\repos\RailEase\bin\Debug\net10.0-windows\RailEase.exe
+C:\Users\Ishwar\source\repos\RailEase\bin\Debug\net10.0-windows\RailEase.deps.json
+C:\Users\Ishwar\source\repos\RailEase\bin\Debug\net10.0-windows\RailEase.runtimeconfig.json
+C:\Users\Ishwar\source\repos\RailEase\bin\Debug\net10.0-windows\RailEase.dll
+C:\Users\Ishwar\source\repos\RailEase\bin\Debug\net10.0-windows\RailEase.pdb
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.FrmMain.resources
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.csproj.GenerateResource.cache
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.AssemblyInfoInputs.cache
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.AssemblyInfo.cs
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.csproj.CoreCompileInputs.cache
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.dll
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\refint\RailEase.dll
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.pdb
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.genruntimeconfig.cache
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\ref\RailEase.dll
+C:\Users\Ishwar\source\repos\RailEase\obj\Debug\net10.0-windows\RailEase.Properties.Resources.resources
