@@ -24,13 +24,6 @@ RailEase is a modern railway management and train information desktop applicatio
 - Responsive dashboard cards
 - Railway-inspired design
 
-## 🛠️ Built With
-
-- C#
-- .NET 8
-- Windows Forms
-- Visual Studio
-
 ## 📂 Project Structure
 
 ```
@@ -47,10 +40,5 @@ RailEase
 └── Program.cs
 ```
 
-## 🎯 Goal
-
-To create a fast, beautiful, and feature-rich railway application that offers an intuitive travel experience and serves as a practical desktop solution for railway-related information and services.
-
----
 
 **RailEase – Travel Smart, Travel Easy. 🚄**
